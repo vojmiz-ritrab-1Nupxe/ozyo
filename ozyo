@@ -1,5 +1,5 @@
 git init
-git remote add origin https://github.com/tonpseudo/ozyo.git
+git remote add origin https://github.com/vojmiz-ritrab-1Nupxe/ozyo.git
 git add .
-git commit -m "Déploiement Ozyo"
-git push -u origin master
+git commit -m "🚀 Projet Ozyo propre prêt à déployer"
+git push -f origin main
